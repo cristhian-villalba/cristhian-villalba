@@ -8,7 +8,10 @@
 Profesional con más de 10 años de trayectoria en el área comercial y de marketing, especializado en transformar datos dispersos en cuadros de mando ejecutivos e inteligencia estratégica para la toma de decisiones. Cuento con especialización técnica en Business Intelligence (Power BI, Power Query, DAX, SQL, Data Warehouse y Python predictivo). Mi valor diferencial radica en conectar la arquitectura de datos con la rentabilidad real del negocio.
 
 📍 **Ubicación:** Madrid, España
-💼 **Perfil:** Disponible para roles de Business Intelligence & Marketing Analytics  
+💼 **Perfil:** Disponible para roles de Business Intelligence & Marketing Analytics.  
+📱 **Teléfono:** (+34) 698 94 32 69
+
+---
 
 ### 📊 Proyectos Destacados (Portafolio)
 
