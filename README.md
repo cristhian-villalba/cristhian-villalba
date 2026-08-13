@@ -34,7 +34,7 @@ Profesional con más de 10 años de trayectoria en el área comercial y de marke
 
 ## 📬 Contáctame: 
 
-•	**Ubicación:** Madrid, España.
-•	**LinkedIn:** https://www.linkedin.com/in/cristhianvillalba
-•	**Email:** cristh.villalba@gmail.com
-•	**Teléfono:** (+34) 698 94 32 69
+* **Ubicación:** Madrid, España.
+* **LinkedIn:** https://www.linkedin.com/in/cristhianvillalba
+* **Email:** cristh.villalba@gmail.com
+* **Teléfono:** (+34) 698 94 32 69
